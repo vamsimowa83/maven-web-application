@@ -33,7 +33,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		Vamsi Technologies, 
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
 		Bangalore,
-		+91-9980923226
+		+91-8121301606
 		devopstrainingblr@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
